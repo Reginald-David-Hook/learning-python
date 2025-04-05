@@ -28,9 +28,9 @@ This repository is my coding binder — it contains:
 
 | Folder | Description |
 |--------|-------------|
-| `/Chapter_01_Basics/` | Exercises and notes from Chapter 1 |
-| `/Chapter_02_Strings/` | String-related code, practice, and cheat sheets |
-| `/Chapter_03_Lists/` | Working with lists and list-based challenges |
+| `/Chapter_01_Getting Started/` | Exercises and notes from Chapter 1 |
+| `/Chapter_02_Variables_and_Simple_Data_Types/` | String-related code, practice, and cheat sheets |
+| `/Chapter_03_Introducing_Lists/` | Working with lists and list-based challenges |
 | `/Projects/` | Small tools and scripts to show applied knowledge |
 | `/CheatSheets/` | All cheat sheets organized in one place |
 | `/Resources/` | Helpful links, tips, commands, and references |
